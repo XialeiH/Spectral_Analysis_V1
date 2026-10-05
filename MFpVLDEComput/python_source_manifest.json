@@ -1,0 +1,86 @@
+[
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/3_Weighted_Jacobian/Figure_3D_3/extract_figure_3d1_log_sigma.py",
+    "sha256": "1c7335a13b2f5d4d1c961061d5c1caf2a134764054a18b4516494d2763b3ea29"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn3_cached_optimization_20260921/code/analyze_impl.py",
+    "sha256": "e7f95b784e570593f5745ae604c9e7163b3d2cfd212f3984abc4b73e97b94406"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn3_cached_optimization_20260921/code/collect_impl.py",
+    "sha256": "dae6277936ded5a4028064d05b7c4527cdb7d97113179c0ef556d986f4618a13"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn3_impl_optimization_20260921/code/analyze_impl.py",
+    "sha256": "a3223d12cc4e2d37a516d7567967f6d44fab15562f931056dfe0cdae22596c3d"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn3_impl_optimization_20260921/code/collect_impl.py",
+    "sha256": "f7a9ba81e36095689cf618591bec78bc1c1355ee7bd6a7aa2e3195ad08e6880f"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn3_thread_optimization_20260921/code/collect_optimization.py",
+    "sha256": "bb635b018b8406157f79c56cddbb461131a68349204e4031bd65819ecc637d8f"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/dnn_allfields_cached_20260921/code/collect.py",
+    "sha256": "e4713374eec1373d8397b1fd6275f164dbafc93c06fa37b8d43eed53ec8b73ca"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/hcnorm_residual_allfields_20260925/code/collect.py",
+    "sha256": "7ae11427b7f6b4bf1424a7a9d8e8bd898168d6175bd667daba92b1343fe14909"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/local_3x3_speed_comparison_20260921/code/run_local_candidates.py",
+    "sha256": "caa67302f403eb84a19ce4f200506975ced819115f541fb5c53a390202f43891"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/local_3x3_speed_comparison_20260921/code/run_local_comparison.py",
+    "sha256": "328104b720ee9d9ee7f57df2a3b78ee5b72d012695bfce00385b5e5fc9c26b4c"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/snn3_duration20s_20260921/code/collect_snn20.py",
+    "sha256": "4f0d403bc936a1fb08779a8fbbbb10208af6c1e67363c25970ee284f8e93887b"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/snn3_thread_optimization_20260921/code/collect.py",
+    "sha256": "9c4ac06812dee5aa494a44487ed67d0d79e920b2be72b0f8ecebabc7b7ab5dd1"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/snn3_thread_optimization_20260921/code/run_study.py",
+    "sha256": "af670ed523997edde3cf2550b803729b96e09860b44c22e49c6ac60ca0f062a4"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/tol5e3_3x3_4x4_20260921/cleanup_authorized_august_training.py",
+    "sha256": "f85da1d71ddfa7d0c95242eff392eb6c057870cc9cfbe9ae87f6c5266fe6fc5a"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/tol5e3_3x3_4x4_20260921/summarize_benchmarks.py",
+    "sha256": "b961866f9fe5b3fa5c65cffe0230ea22632c7fb0f75974826802dcb53d03add5"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_artifacts/Figure_1G/tol5e3_allfields_snn15s_20260921/code/collect_results.py",
+    "sha256": "37a4686efbce13bb9dbecfe81363c1a41692fb53fc1a14bb4554d14141cb6f54"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/figure6_0_multimetric_20260807/plot_figure6_0_selected_baseline_comparisons.py",
+    "sha256": "8cb1874d14ab9f4036ded7aa502efbcc861cdeb8b9ac592a33f927ec6fac6242"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/figure6_0_multimetric_20260807/plot_figure6_16_heatmap_overview.py",
+    "sha256": "b4f6ed51809420f6064c7ba8a58e51ce85fdccd171a9c74b81c04dccb8b23b33"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/spatial_symmetry_zero_controls_20260811/audit_connectivity_low_rank.py",
+    "sha256": "0bbe471a4a5fd8382bacfeb65f59cc5666691c06f3310a77998ce4b3c40e8dcc"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_scripts/build_figure1_overview.py",
+    "sha256": "51e55eb624c9ace91ed5be37fdb61cf1674ebaa3453b2f8529d7f3cfcd5402dc"
+  },
+  {
+    "path": "MFpVLDEComput/historical/report_figure_scripts/plot_1_2_snn_premodel_vs_nn_cg.py",
+    "sha256": "bcc152549d756f2052f8fddc348d9d84894b02dc4768dd5b47bcec711e9763d8"
+  }
+]

@@ -1,0 +1,5 @@
+TaskId	AngleDeg	Contrast	Setting	MaxRealLambda	EigenResidual	PathwayReconstructionError
+6	7.5	42	full	0.834470251510223	1.34783996092256e-16	0
+6	7.5	42	l6_frozen	0.144341389387079	2.16571760528977e-16	0
+6	7.5	42	inhibition_frozen	6.82943218591547	1.20692163977993e-16	0
+6	7.5	42	recurrent_E_frozen	0.669688876474627	2.93724226449045e-16	0

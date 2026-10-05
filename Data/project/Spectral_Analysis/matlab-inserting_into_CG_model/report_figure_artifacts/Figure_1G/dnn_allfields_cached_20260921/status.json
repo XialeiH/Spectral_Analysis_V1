@@ -1,0 +1,169 @@
+{
+  "fields": {
+    "4": {
+      "candidate": {
+        "n": 100,
+        "mean": 0.28527237,
+        "sd": 0.08052346519069,
+        "sem": 0.008052346519069,
+        "min": 0.201639,
+        "max": 0.53877
+      },
+      "control": {
+        "n": 100,
+        "mean": 0.52015201,
+        "sd": 0.1359889379564943,
+        "sem": 0.01359889379564943,
+        "min": 0.357711,
+        "max": 1.399088
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.8233522230000754
+    },
+    "6": {
+      "candidate": {
+        "n": 20,
+        "mean": 0.4104361,
+        "sd": 0.12153398944367265,
+        "sem": 0.027175826197279387,
+        "min": 0.277772,
+        "max": 0.728914
+      },
+      "control": {
+        "n": 20,
+        "mean": 0.67577245,
+        "sd": 0.1751294075360981,
+        "sem": 0.03916012601099793,
+        "min": 0.417548,
+        "max": 1.029706
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.6464742014652218
+    },
+    "8": {
+      "candidate": {
+        "n": 20,
+        "mean": 0.63967995,
+        "sd": 0.188905952747441,
+        "sem": 0.04224065516976412,
+        "min": 0.361032,
+        "max": 1.028167
+      },
+      "control": {
+        "n": 20,
+        "mean": 0.88378745,
+        "sd": 0.2323882761707848,
+        "sem": 0.051963598269186936,
+        "min": 0.576007,
+        "max": 1.496771
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.38160880296467
+    },
+    "10": {
+      "candidate": {
+        "n": 20,
+        "mean": 0.8900212,
+        "sd": 0.19342072747976105,
+        "sem": 0.043250189490220727,
+        "min": 0.597714,
+        "max": 1.328398
+      },
+      "control": {
+        "n": 20,
+        "mean": 1.17773105,
+        "sd": 0.2759131170151165,
+        "sem": 0.061696048552965434,
+        "min": 0.867338,
+        "max": 1.714249
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.3232617942134413
+    },
+    "20": {
+      "candidate": {
+        "n": 20,
+        "mean": 3.30177605,
+        "sd": 0.7617426361382084,
+        "sem": 0.17033083157649218,
+        "min": 2.649314,
+        "max": 5.434732
+      },
+      "control": {
+        "n": 20,
+        "mean": 3.83169205,
+        "sd": 0.9034819022067946,
+        "sem": 0.20202469497752099,
+        "min": 2.920981,
+        "max": 5.769486
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.160494228553145
+    },
+    "30": {
+      "candidate": {
+        "n": 20,
+        "mean": 6.6044177,
+        "sd": 0.9783870247313393,
+        "sem": 0.21877398956030425,
+        "min": 5.863857,
+        "max": 9.131892
+      },
+      "control": {
+        "n": 20,
+        "mean": 7.029949,
+        "sd": 1.1302306393020665,
+        "sem": 0.2527272539732466,
+        "min": 6.212413,
+        "max": 9.918498
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.0644313123926126
+    },
+    "40": {
+      "candidate": {
+        "n": 20,
+        "mean": 12.6908455,
+        "sd": 2.0062644353281236,
+        "sem": 0.4486143658233915,
+        "min": 10.412131,
+        "max": 16.064914
+      },
+      "control": {
+        "n": 20,
+        "mean": 13.5965664,
+        "sd": 2.7424905899570153,
+        "sem": 0.6132395386797388,
+        "min": 11.015239,
+        "max": 19.286953
+      },
+      "gate_n": 2,
+      "checks_passed": true,
+      "complete": true,
+      "ready": true,
+      "control_over_candidate": 1.0713680503005099
+    }
+  },
+  "errors": [],
+  "complete": true,
+  "ready_to_plot": true,
+  "note": "Publish all complete validated field groups without filtering slower timings."
+}

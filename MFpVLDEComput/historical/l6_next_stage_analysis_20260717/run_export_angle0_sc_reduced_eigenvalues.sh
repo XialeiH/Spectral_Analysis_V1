@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+
+module load matlab/2025b
+matlab -nodisplay -nosplash -batch "addpath('/scratch/xh2906/librarySCI_runs/h96_all_jacobian_eigenspectra_3200_20260724_151500/code'); export_angle0_sc_reduced_eigenvalues('/scratch/xh2906/librarySCI_runs/h96_default_full_geometry_dedupe_array_localhelpers_20260607_084610/l6_mechanism_derivative_clamp_20260628_033413/geometry_mat/geometry_sections4_5_h96baseline_L6eqW0p00_contr100_angle_0.00.mat','/scratch/xh2906/librarySCI_runs/h96_all_jacobian_eigenspectra_3200_20260724_151500/eigenvalue_exports/reduced_angle0_contrast100_eigenvalues.mat')"

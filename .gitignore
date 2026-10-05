@@ -1,0 +1,9 @@
+Outputs/
+*.asv
+.DS_Store
+__pycache__/
+matlab_crash_dump*
+*.log
+*.mat.restoring
+Data/timing_runtime/bundles/cg_response_c100_a0.mat
+LOCAL_COPY_GAPS.json

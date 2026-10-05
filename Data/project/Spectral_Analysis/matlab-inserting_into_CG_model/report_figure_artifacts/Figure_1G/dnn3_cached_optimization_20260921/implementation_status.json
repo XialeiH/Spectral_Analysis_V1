@@ -1,0 +1,82 @@
+{
+  "probe": {
+    "paged": {
+      "n": 10,
+      "mean": 0.3661072,
+      "sd": 0.05007288400543972,
+      "sem": 0.01583443624706046,
+      "min": 0.290105,
+      "max": 0.448381,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "paged_quad": {
+      "n": 10,
+      "mean": 0.4553389,
+      "sd": 0.3261214644826713,
+      "sem": 0.1031286621634947,
+      "min": 0.296075,
+      "max": 1.373366,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "paged_padding": {
+      "n": 10,
+      "mean": 0.2728579,
+      "sd": 0.03797583458361675,
+      "sem": 0.012009013333002099,
+      "min": 0.202618,
+      "max": 0.328182,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "paged_aggregate": {
+      "n": 10,
+      "mean": 0.4431892,
+      "sd": 0.24817157250123015,
+      "sem": 0.07847874196094973,
+      "min": 0.296406,
+      "max": 1.132353,
+      "all_passed": true,
+      "max_step_error": 5.76097093585304e-05
+    },
+    "paged_combined": {
+      "n": 10,
+      "mean": 0.25981730000000003,
+      "sd": 0.08026208586880303,
+      "sem": 0.025381100110143197,
+      "min": 0.182775,
+      "max": 0.468962,
+      "all_passed": true,
+      "max_step_error": 5.76097093585304e-05
+    }
+  },
+  "selected_variant": "paged_combined",
+  "validation": {
+    "n": 100,
+    "mean": 0.25347528,
+    "sd": 0.057514189209146076,
+    "sem": 0.005751418920914608,
+    "min": 0.180536,
+    "max": 0.424105,
+    "all_passed": true,
+    "max_step_error": 7.7365728515133e-05
+  },
+  "control": {
+    "n": 100,
+    "mean": 0.39145953,
+    "sd": 0.16444450063329707,
+    "sem": 0.01644445006332971,
+    "min": 0.262637,
+    "max": 1.524985,
+    "all_passed": true,
+    "max_step_error": 1.25885009794047e-06
+  },
+  "complete": true,
+  "ready_to_plot": true,
+  "frozen_CG_mean": 27.36131558,
+  "frozen_DNN4_mean": 0.54671737,
+  "CG_over_DNN": 107.94470995357021,
+  "target_100x_met": true,
+  "control_over_candidate_ratio_of_means": 1.5443696521412265
+}

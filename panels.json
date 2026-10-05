@@ -1,0 +1,534 @@
+[
+  {
+    "id": "Main_01_B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1B_only_iterations.m",
+    "title": "Equilibrium computation timing; HC residual, accelerated DNN, five 500-second SNN trials",
+    "group": "Main",
+    "legacy_entry_id": "Main_1B",
+    "reference": "main_01.pdf",
+    "panels": [
+      "B"
+    ],
+    "live_script": "Main_01_B.mlx",
+    "source_sha256": "1fb6718546603812f581216909a7cd0b48ab7d98c8b65716b852d95c075772a8"
+  },
+  {
+    "id": "Main_01_C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1B.m",
+    "title": "CG versus DNN E rates: 70 conditions, 28000 plotted pixel pairs",
+    "group": "Main",
+    "legacy_entry_id": "Main_1C",
+    "reference": "main_01.pdf",
+    "panels": [
+      "C"
+    ],
+    "live_script": "Main_01_C.mlx",
+    "source_sha256": "a27115406a89ad3196fe8c633a5d522bdcbecff1397e477a5d2bedec3473e421"
+  },
+  {
+    "id": "Main_01_D",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1C.m",
+    "title": "Orientation tuning at two pixels",
+    "group": "Main",
+    "legacy_entry_id": "Main_1D",
+    "reference": "main_01.pdf",
+    "panels": [
+      "D"
+    ],
+    "live_script": "Main_01_D.mlx",
+    "source_sha256": "0d46bf4e45008022313163fa15e0ca40911f82be75cc24bc7f2edd1c63bacab0"
+  },
+  {
+    "id": "Main_01_E",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1D.m",
+    "title": "Contrast tuning; retained numerical values embedded in the code",
+    "group": "Main",
+    "legacy_entry_id": "Main_1E",
+    "reference": "main_01.pdf",
+    "panels": [
+      "E"
+    ],
+    "live_script": "Main_01_E.mlx",
+    "source_sha256": "b1c2c05547965580aa6436500e733660efb18e36812e33cf1daefc204273c140"
+  },
+  {
+    "id": "Main_01_FG",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1E.m",
+    "title": "DNN and CG equilibrium maps, spectra and leading modes",
+    "group": "Main",
+    "legacy_entry_id": "Main_1FG",
+    "reference": "main_01.pdf",
+    "panels": [
+      "F",
+      "G"
+    ],
+    "live_script": "Main_01_FG.mlx",
+    "source_sha256": "dff0576267cdaff38cb8b33127e53a3dd4e945211edc53a118273a9bc0afea68"
+  },
+  {
+    "id": "Main_02_B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_2B.m",
+    "title": "Signed pathway budget; four retained contrasts and display KDE",
+    "group": "Main",
+    "legacy_entry_id": "Main_2B",
+    "reference": "main_02.pdf",
+    "panels": [
+      "B"
+    ],
+    "live_script": "Main_02_B.mlx",
+    "source_sha256": "e8fae5ba7e31a7921174c74e179d9928fb06d99e94ad252eb9128a086fddda2d"
+  },
+  {
+    "id": "Main_02_C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_2D.m",
+    "title": "L6 moved-fixed-point versus fixed-point-preserving intervention",
+    "group": "Main",
+    "legacy_entry_id": "Main_2C",
+    "reference": "main_02.pdf",
+    "panels": [
+      "C"
+    ],
+    "live_script": "Main_02_C.mlx",
+    "source_sha256": "60096c047ea1adbafae5d257b741d40cc9874b1181bbec5cabd296798fcc20ac"
+  },
+  {
+    "id": "Main_02_D",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_2E.m",
+    "title": "Inhibitory moved-fixed-point versus fixed-point-preserving intervention",
+    "group": "Main",
+    "legacy_entry_id": "Main_2D",
+    "reference": "main_02.pdf",
+    "panels": [
+      "D"
+    ],
+    "live_script": "Main_02_D.mlx",
+    "source_sha256": "93e560cb1321f8e0e269c12710c12356b61aa671a4f9285d937e3c7f34a3fcf2"
+  },
+  {
+    "id": "Main_03_AB",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_2C_split.m",
+    "title": "L6 and inhibitory pathway eigenspectrum sweeps",
+    "group": "Main",
+    "legacy_entry_id": "Main_3AB",
+    "reference": "main_03.pdf",
+    "panels": [
+      "A",
+      "B"
+    ],
+    "live_script": "Main_03_AB.mlx",
+    "source_sha256": "392598eff515fec57742873848e69ce74948f1aab48cba8ea74390c89c9d7441"
+  },
+  {
+    "id": "Main_04_A",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3C.m",
+    "title": "Baseline, L4-flattened and noisy spatial-kernel controls",
+    "group": "Main",
+    "legacy_entry_id": "Main_4A",
+    "reference": "main_04.pdf",
+    "panels": [
+      "A"
+    ],
+    "live_script": "Main_04_A.mlx",
+    "source_sha256": "b285dccbdb3421dde5f6414f23dc837a23b43a7d539bfcb7c8c09954dbbed49a"
+  },
+  {
+    "id": "Main_04_B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3D.m",
+    "title": "Full singular-value distributions; historical manuscript Figure 4D",
+    "group": "Main",
+    "legacy_entry_id": "Main_4B",
+    "reference": "main_04.pdf",
+    "panels": [
+      "B"
+    ],
+    "live_script": "Main_04_B.mlx",
+    "source_sha256": "199119f2da5439b047dc641dcff718379c85b5ec4d9909e8a1dd604dcf9cf5f0"
+  },
+  {
+    "id": "Main_04_C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3E_2.m",
+    "title": "Mode-resolved direct and indirect pathway balance; numeric panel only",
+    "group": "Main",
+    "legacy_entry_id": "Main_4C",
+    "reference": "main_04.pdf",
+    "panels": [
+      "C"
+    ],
+    "live_script": "Main_04_C.mlx",
+    "source_sha256": "d95f0d2e5b6fd7f84c1342d856116d4e7b5dc84d3bd0885d98d7dc453b563780"
+  },
+  {
+    "id": "Main_05_A",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4A.m",
+    "title": "Left and right E eigencluster maps",
+    "group": "Main",
+    "legacy_entry_id": "Main_5A",
+    "reference": "main_05.pdf",
+    "panels": [
+      "A"
+    ],
+    "live_script": "Main_05_A.mlx",
+    "source_sha256": "174dbb5810b7cdcb1181435569b0a692fef0b0c391ee305029229b6323df3fab"
+  },
+  {
+    "id": "Main_05_B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4B.m",
+    "title": "Left and right leading singular-mode maps",
+    "group": "Main",
+    "legacy_entry_id": "Main_5B",
+    "reference": "main_05.pdf",
+    "panels": [
+      "B"
+    ],
+    "live_script": "Main_05_B.mlx",
+    "source_sha256": "131d9d982fc1e1c292c4aef9a92f143e00eb7a95b608fb21f091143d960ab668"
+  },
+  {
+    "id": "Main_05_C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4C.m",
+    "title": "Mode-similarity controls with aligned category order",
+    "group": "Main",
+    "legacy_entry_id": "Main_5C",
+    "reference": "main_05.pdf",
+    "panels": [
+      "C"
+    ],
+    "live_script": "Main_05_C.mlx",
+    "source_sha256": "d3947b10fc8170ea291b029a0a9dbeb619c8bbd8fbf9b0f7a2d77557b687d1c2"
+  },
+  {
+    "id": "Main_05_D",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4E.m",
+    "title": "Regional mode envelopes",
+    "group": "Main",
+    "legacy_entry_id": "Main_5D",
+    "reference": "main_05.pdf",
+    "panels": [
+      "D"
+    ],
+    "live_script": "Main_05_D.mlx",
+    "source_sha256": "99b2ca6ac8f9aaadb17001c0fa1a450d71b6064c2042932d484ed0b9abe571e9"
+  },
+  {
+    "id": "Main_05_E",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4F.m",
+    "title": "Orientation decoding and regional perturbation contributions",
+    "group": "Main",
+    "legacy_entry_id": "Main_5E",
+    "reference": "main_05.pdf",
+    "panels": [
+      "E"
+    ],
+    "live_script": "Main_05_E.mlx",
+    "source_sha256": "8ce29f90cef0a8b76388f477af6b3338378fcbb70098f6497291796ed7739e63"
+  },
+  {
+    "id": "Main_06_A",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5A.m",
+    "title": "Static pathway-compensation geometry",
+    "group": "Main",
+    "legacy_entry_id": "Main_6A",
+    "reference": "main_06.key",
+    "panels": [
+      "A"
+    ],
+    "live_script": "Main_06_A.mlx",
+    "source_sha256": "9ebeca5a13681075678e86eb20eeda333b056479f01a7be56ea0ed784244fde6"
+  },
+  {
+    "id": "Main_06_B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5B.m",
+    "title": "Pairwise pathway-compensation heatmaps",
+    "group": "Main",
+    "legacy_entry_id": "Main_6B",
+    "reference": "main_06.key",
+    "panels": [
+      "B"
+    ],
+    "live_script": "Main_06_B.mlx",
+    "source_sha256": "e7a82790ab4b10cd6a17a67a2a6566c2f0c00fa6d2be42e0efad6f9e1c3506ba"
+  },
+  {
+    "id": "Main_06_C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5C.m",
+    "title": "Compensation slopes across contrasts",
+    "group": "Main",
+    "legacy_entry_id": "Main_6C",
+    "reference": "main_06.key",
+    "panels": [
+      "C"
+    ],
+    "live_script": "Main_06_C.mlx",
+    "source_sha256": "7aa89231a1d99ffc69f2518851d5b1c513a16500f45f3259d6fadfa20cf014f3"
+  },
+  {
+    "id": "Main_06_D",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5D.m",
+    "title": "Static error, recovery time and common-input peak time; initial HC amplitude 1 sp/s",
+    "group": "Main",
+    "legacy_entry_id": "Main_6D",
+    "reference": "main_06.key",
+    "panels": [
+      "D"
+    ],
+    "live_script": "Main_06_D.mlx",
+    "source_sha256": "6c3a2cf2eb22eca7dc15cb82e5f47bf929af6082a34b4e1518bdd7ba61c0eca8"
+  },
+  {
+    "id": "Main_06_E",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5E_2.m",
+    "title": "Compensated tuning and trajectories",
+    "group": "Main",
+    "legacy_entry_id": "Main_6E",
+    "reference": "main_06.key",
+    "panels": [
+      "E"
+    ],
+    "live_script": "Main_06_E.mlx",
+    "source_sha256": "5698f3c175882b1c4bac85ec01162367f86dee83719995c1c9d93698158a6ec9"
+  },
+  {
+    "id": "Main_06_F",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5E_1.m",
+    "title": "Compensated-state maps",
+    "group": "Main",
+    "legacy_entry_id": "Main_6F",
+    "reference": "main_06.key",
+    "panels": [
+      "F"
+    ],
+    "live_script": "Main_06_F.mlx",
+    "source_sha256": "db44637aff7057bcc20d521637fceab85b70543aad3ee2fac27c1b6ec54f7ba4"
+  },
+  {
+    "id": "Supp_S2",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/Figure_1G/plot_figure1g_isolated_cold.m",
+    "title": "Thirteen paired cold-start trials; supplementary panel is the left per-iteration plot",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S2",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S2.mlx",
+    "source_sha256": "cde9c6f147607a8602fc36e12cdf77c265942458e04ea795cf1d4bf518a872ce"
+  },
+  {
+    "id": "Supp_S1_orientation",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/1_Neural_Network_Surrogate/Figure_1D_3/make_Figure_1D_3.m",
+    "title": "LGN6 orientation tuning",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S1_orientation",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S1_orientation.mlx",
+    "source_sha256": "1799bc0cdc7259f4ffdd24babf3f1f85c589748452b566a1d27d00deb42b537b"
+  },
+  {
+    "id": "Supp_S1_contrast",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/1_Neural_Network_Surrogate/Figure_1E_2/make_Figure_1E_2.m",
+    "title": "LGN6 contrast tuning",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S1_contrast",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S1_contrast.mlx",
+    "source_sha256": "2415888327ad4e72bdab7fa2d1c63199e906cf6b02c683208b6584db85f23c1a"
+  },
+  {
+    "id": "Supp_S3",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/plot_figure_2C_spectral_edge.m",
+    "title": "Spectral edges for sixteen conditions and four pathway settings",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S3",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S3.mlx",
+    "source_sha256": "34aa4376f360a067e795d915deb63b10b19c0b3f5abdc7d7900a6fc22fc00cbf"
+  },
+  {
+    "id": "Supp_S4",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/3_Weighted_Jacobian/Figure_3A_2/make_Figure_3A_2.m",
+    "title": "Pixel-resolution control",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S4",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S4.mlx",
+    "source_sha256": "0b790853a04ef8b000409995bed38c19563c3b16a0e7f170179ef73554b3b14b"
+  },
+  {
+    "id": "Supp_S5",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/3_Weighted_Jacobian/Figure_3C/make_Figure_3C.m",
+    "title": "Five spatial-kernel controls",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S5",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S5.mlx",
+    "source_sha256": "340531b51443b5521df11fa1850e37b7aab0c57e5136fbddb34e66f97a4604aa"
+  },
+  {
+    "id": "Supp_S6",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/3_Weighted_Jacobian/Figure_3E/make_Figure_3E.m",
+    "title": "S/C reduction; preserves the historical modulus-based count annotation",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S6",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S6.mlx",
+    "source_sha256": "1997878e7bf57d255e6d8380c6fba831b77d262ea708f6acb2e0501d3430a05a"
+  },
+  {
+    "id": "Supp_S7",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/3_Weighted_Jacobian/Figure_3F/make_Figure_3F_2_4.m",
+    "title": "Schur-mode cancellation versus spatial frequency; also exports two related diagnostics",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S7",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S7.mlx",
+    "source_sha256": "33f7bed0b9ac4fbc87bff48e96d6c41cd740320292bb6321b8d797ba1eaa554e"
+  },
+  {
+    "id": "Supp_S8",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/4_FPP_Setting/Figure_4D/make_Figure_4D.m",
+    "title": "Finite-time gains under pathway freezing",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S8",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S8.mlx",
+    "source_sha256": "c2b0d0538def3f0abf8edd15f385925ca52d64609541ed34939ffb0ec8db4ef4"
+  },
+  {
+    "id": "Supp_S9",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/4_Pathway_Modes/Figure_4F_3/make_Figure_4F_3.m",
+    "title": "Shapley energy contributions",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S9",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S9.mlx",
+    "source_sha256": "9fcd7bd5bbc440f6dd739b77f423177f36e9c3aa47a8a4bd0c91db6cd19f0b46"
+  },
+  {
+    "id": "Supp_S10",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_artifacts/6_Pathway_Compensation/Figure_5F/make_Figure_5F.m",
+    "title": "Static and dynamic sensitivity; corrected parameter ordering and linear x-axis",
+    "group": "Supplementary",
+    "legacy_entry_id": "Supp_S10",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Supp_S10.mlx",
+    "source_sha256": "b22f5312773b34f8c92e63714541a1f173d7306b0fe0628996c400b691a3eb68"
+  },
+  {
+    "id": "Additional_ODE_library",
+    "source": "Spectral_Analysis/matlab-inserting_into_CG_model/report_figure_scripts/plot_supplement_S1_S2.m",
+    "title": "Additional historical S1/S2 ODE-library studies, not manuscript S1/S2",
+    "group": "Supplementary",
+    "legacy_entry_id": "Additional_ODE_library",
+    "reference": "L4Ca_supplementary.pdf",
+    "panels": [],
+    "live_script": "Additional_ODE_library.mlx",
+    "source_sha256": "f3e35b918bb0643cac9c455cb41ad100dd3b165238faf552322ed92738256ee1"
+  },
+  {
+    "id": "Additional_Figure_1F",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_1F.m",
+    "title": "Additional retained panel: Figure_1F",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_1F",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_1F.mlx",
+    "source_sha256": "bfbfb5e901fd41f5481436b87a94d43e9761ba6bc0dd36ac55fd515a5765f0ee"
+  },
+  {
+    "id": "Additional_Figure_2C",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_2C.m",
+    "title": "Additional retained panel: Figure_2C",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_2C",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_2C.mlx",
+    "source_sha256": "b740339532b225d9101fdc8b28c3dc180d2b75632050a48033e9afbcafc91c32"
+  },
+  {
+    "id": "Additional_Figure_3A",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3A.m",
+    "title": "Additional retained panel: Figure_3A",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_3A",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_3A.mlx",
+    "source_sha256": "bb477ac687aef8ce38eb2e5545b5af35a99771454832a7d6c21a15cdbfbac5e1"
+  },
+  {
+    "id": "Additional_Figure_3B",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3B.m",
+    "title": "Additional retained panel: Figure_3B",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_3B",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_3B.mlx",
+    "source_sha256": "b099915827b8e488a7a0248346668488b51b5f615b9a8333c8f20181a2332d09"
+  },
+  {
+    "id": "Additional_Figure_3D_1",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3D_1.m",
+    "title": "Additional retained panel: Figure_3D_1",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_3D_1",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_3D_1.mlx",
+    "source_sha256": "3b81b37247acf5fa7555a03225a0ee249f2130264286c9a874df4b311a72803d"
+  },
+  {
+    "id": "Additional_Figure_3F_options",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_3F_options.m",
+    "title": "Additional retained panel: Figure_3F_options",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_3F_options",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_3F_options.mlx",
+    "source_sha256": "d921637a8ac6fb8e46d3d69ef502a04e93b0912aadbab0ac60697453a50faea1"
+  },
+  {
+    "id": "Additional_Figure_4D",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4D.m",
+    "title": "Additional retained panel: Figure_4D",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_4D",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_4D.mlx",
+    "source_sha256": "2d552815ede8ce30d52974faeb622d6bb7c2ea22a2c98a4eb76fb61ee4dcf10e"
+  },
+  {
+    "id": "Additional_Figure_4F_region_categories",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_4F_region_categories.m",
+    "title": "Additional retained panel: Figure_4F_region_categories",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_4F_region_categories",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_4F_region_categories.mlx",
+    "source_sha256": "42037e8b289a725beb4082e5bd5ce1b42c79d841959b6ef102bb6a9974ea0c32"
+  },
+  {
+    "id": "Additional_Figure_5E",
+    "source": "Spectral_Analysis_Report/Figures/Draft/Figure_5E.m",
+    "title": "Additional retained panel: Figure_5E",
+    "group": "Additional",
+    "legacy_entry_id": "Additional_Figure_5E",
+    "reference": "",
+    "panels": [],
+    "live_script": "Additional_Figure_5E.mlx",
+    "source_sha256": "90ab6546a7b3ce1fe48272c1d1754efb0a75d18c65bc6936b462e8be28a9cb3a"
+  }
+]

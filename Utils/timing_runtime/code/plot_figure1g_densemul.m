@@ -1,0 +1,6 @@
+function plot_figure1g_densemul(runRoot,outputPdf)
+% Plot the no-sparse-multiplication benchmark as Figure 1G.2.
+plot_figure1g_scaling( ...
+    fullfile(runRoot,'figure1g_densemul_4x4_100trials.tsv'), ...
+    fullfile(runRoot,'field_scaling_densemul_timings.tsv'),outputPdf);
+end

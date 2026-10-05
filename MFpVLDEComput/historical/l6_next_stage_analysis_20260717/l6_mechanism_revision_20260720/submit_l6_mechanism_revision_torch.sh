@@ -1,0 +1,55 @@
+#!/bin/bash
+set -euo pipefail
+
+if [[ $# -ne 4 ]]; then
+  echo "Usage: $0 RUN_ROOT SOURCE_ROOT BOUNDARY_TSV CELLTYPE_TSV" >&2
+  exit 2
+fi
+
+RUN_ROOT="$1"
+SOURCE_ROOT="$2"
+BOUNDARY_TSV="$3"
+CELLTYPE_TSV="$4"
+CODE_ROOT="$RUN_ROOT/code"
+OUTPUT_ROOT="$RUN_ROOT/results"
+LOG_ROOT="$RUN_ROOT/logs"
+mkdir -p "$OUTPUT_ROOT" "$LOG_ROOT"
+
+for required in "$SOURCE_ROOT/geometry_mat" "$BOUNDARY_TSV" "$CELLTYPE_TSV"; do
+  if [[ ! -e "$required" ]]; then
+    echo "Missing required input: $required" >&2
+    exit 3
+  fi
+done
+
+COMMON=(--account=torch_pr_482_general --partition=cpu_short --qos=cpu48)
+EXPORTS="ALL,L6R_SOURCE_ROOT=$SOURCE_ROOT,L6R_OUTPUT_ROOT=$OUTPUT_ROOT,L6R_BOUNDARY_TSV=$BOUNDARY_TSV,L6R_CELLTYPE_TSV=$CELLTYPE_TSV"
+
+SWEEP_JOB=$(sbatch --parsable "${COMMON[@]}" --job-name=l6rev_sweep \
+  --array=1-16%8 --cpus-per-task=4 --mem=8G --time=02:00:00 \
+  --output="$LOG_ROOT/sweep_%A_%a.out" --error="$LOG_ROOT/sweep_%A_%a.err" \
+  --export="$EXPORTS" \
+  --wrap="module load matlab/2025b && cd '$CODE_ROOT' && matlab -nodisplay -nosplash -batch \"run_l6_revision_sweep_task\"")
+
+MODE_JOB=$(sbatch --parsable "${COMMON[@]}" --job-name=l6rev_modes \
+  --array=1-24%4 --cpus-per-task=4 --mem=12G --time=02:00:00 \
+  --output="$LOG_ROOT/modes_%A_%a.out" --error="$LOG_ROOT/modes_%A_%a.err" \
+  --export="$EXPORTS" \
+  --wrap="module load matlab/2025b && cd '$CODE_ROOT' && matlab -nodisplay -nosplash -batch \"run_l6_revision_mode_task\"")
+
+PLOT_JOB=$(sbatch --parsable "${COMMON[@]}" --job-name=l6rev_plot \
+  --dependency="afterok:$SWEEP_JOB:$MODE_JOB" --cpus-per-task=2 --mem=8G --time=00:30:00 \
+  --output="$LOG_ROOT/plot_%j.out" --error="$LOG_ROOT/plot_%j.err" \
+  --export="$EXPORTS" \
+  --wrap="module load matlab/2025b && cd '$CODE_ROOT' && matlab -nodisplay -nosplash -batch \"plot_l6_mechanism_revision\"")
+
+MANIFEST="$RUN_ROOT/submission_manifest.tsv"
+printf 'stage\tjob_id\tdependency\toutput_root\n' > "$MANIFEST"
+printf 'expanded_weight_sweep\t%s\t\t%s\n' "$SWEEP_JOB" "$OUTPUT_ROOT" >> "$MANIFEST"
+printf 'mode_atlas\t%s\t\t%s\n' "$MODE_JOB" "$OUTPUT_ROOT" >> "$MANIFEST"
+printf 'summary_plots\t%s\tafterok:%s:%s\t%s\n' "$PLOT_JOB" "$SWEEP_JOB" "$MODE_JOB" "$OUTPUT_ROOT" >> "$MANIFEST"
+
+echo "SWEEP_JOB=$SWEEP_JOB"
+echo "MODE_JOB=$MODE_JOB"
+echo "PLOT_JOB=$PLOT_JOB"
+echo "MANIFEST=$MANIFEST"

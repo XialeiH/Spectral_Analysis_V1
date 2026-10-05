@@ -1,0 +1,616 @@
+FieldHC,Method,SampleWithinGroup,Seconds,RelativeStepTolerance,SimulatedMs,NNThreads,DNNImplementation,ResidualMetric
+3,CG,1,19.935574,0.005,NaN,0,,relative_HC_norm
+3,CG,2,20.436302,0.005,NaN,0,,relative_HC_norm
+3,CG,3,22.195097,0.005,NaN,0,,relative_HC_norm
+3,CG,4,22.295471,0.005,NaN,0,,relative_HC_norm
+3,CG,5,24.14406,0.005,NaN,0,,relative_HC_norm
+3,CG,6,25.916722,0.005,NaN,0,,relative_HC_norm
+3,CG,7,24.320818,0.005,NaN,0,,relative_HC_norm
+3,CG,8,33.287638,0.005,NaN,0,,relative_HC_norm
+3,CG,9,32.222246,0.005,NaN,0,,relative_HC_norm
+3,CG,10,25.630925,0.005,NaN,0,,relative_HC_norm
+3,CG,11,24.238663,0.005,NaN,0,,relative_HC_norm
+3,CG,12,23.150681,0.005,NaN,0,,relative_HC_norm
+3,CG,13,28.034672,0.005,NaN,0,,relative_HC_norm
+3,CG,14,41.098676,0.005,NaN,0,,relative_HC_norm
+3,CG,15,25.595511,0.005,NaN,0,,relative_HC_norm
+3,CG,16,42.196603,0.005,NaN,0,,relative_HC_norm
+3,CG,17,25.326916,0.005,NaN,0,,relative_HC_norm
+3,CG,18,19.684727,0.005,NaN,0,,relative_HC_norm
+3,CG,19,26.225546,0.005,NaN,0,,relative_HC_norm
+3,CG,20,21.473654,0.005,NaN,0,,relative_HC_norm
+3,CG,21,19.59034,0.005,NaN,0,,relative_HC_norm
+3,CG,22,23.246474,0.005,NaN,0,,relative_HC_norm
+3,CG,23,22.68594,0.005,NaN,0,,relative_HC_norm
+3,CG,24,20.801368,0.005,NaN,0,,relative_HC_norm
+3,CG,25,22.600168,0.005,NaN,0,,relative_HC_norm
+3,CG,26,22.407525,0.005,NaN,0,,relative_HC_norm
+3,CG,27,23.717217,0.005,NaN,0,,relative_HC_norm
+3,CG,28,24.956832,0.005,NaN,0,,relative_HC_norm
+3,CG,29,24.360609,0.005,NaN,0,,relative_HC_norm
+3,CG,30,25.542613,0.005,NaN,0,,relative_HC_norm
+3,CG,31,24.741469,0.005,NaN,0,,relative_HC_norm
+3,CG,32,24.680745,0.005,NaN,0,,relative_HC_norm
+3,CG,33,25.269064,0.005,NaN,0,,relative_HC_norm
+3,CG,34,25.896989,0.005,NaN,0,,relative_HC_norm
+3,CG,35,23.219519,0.005,NaN,0,,relative_HC_norm
+3,CG,36,26.922463,0.005,NaN,0,,relative_HC_norm
+3,CG,37,23.856355,0.005,NaN,0,,relative_HC_norm
+3,CG,38,26.896277,0.005,NaN,0,,relative_HC_norm
+3,CG,39,27.894467,0.005,NaN,0,,relative_HC_norm
+3,CG,40,26.745045,0.005,NaN,0,,relative_HC_norm
+3,CG,41,26.314551,0.005,NaN,0,,relative_HC_norm
+3,CG,42,21.76886,0.005,NaN,0,,relative_HC_norm
+3,CG,43,21.526456,0.005,NaN,0,,relative_HC_norm
+3,CG,44,22.891312,0.005,NaN,0,,relative_HC_norm
+3,CG,45,22.251402,0.005,NaN,0,,relative_HC_norm
+3,CG,46,21.223497,0.005,NaN,0,,relative_HC_norm
+3,CG,47,22.259927,0.005,NaN,0,,relative_HC_norm
+3,CG,48,27.467386,0.005,NaN,0,,relative_HC_norm
+3,CG,49,20.736552,0.005,NaN,0,,relative_HC_norm
+3,CG,50,20.750623,0.005,NaN,0,,relative_HC_norm
+3,CG,51,22.170567,0.005,NaN,0,,relative_HC_norm
+3,CG,52,21.712724,0.005,NaN,0,,relative_HC_norm
+3,CG,53,23.261337,0.005,NaN,0,,relative_HC_norm
+3,CG,54,21.093869,0.005,NaN,0,,relative_HC_norm
+3,CG,55,23.707061,0.005,NaN,0,,relative_HC_norm
+3,CG,56,22.514026,0.005,NaN,0,,relative_HC_norm
+3,CG,57,22.640636,0.005,NaN,0,,relative_HC_norm
+3,CG,58,23.802628,0.005,NaN,0,,relative_HC_norm
+3,CG,59,23.849813,0.005,NaN,0,,relative_HC_norm
+3,CG,60,23.802844,0.005,NaN,0,,relative_HC_norm
+3,CG,61,22.069606,0.005,NaN,0,,relative_HC_norm
+3,CG,62,22.286099,0.005,NaN,0,,relative_HC_norm
+3,CG,63,19.575901,0.005,NaN,0,,relative_HC_norm
+3,CG,64,23.791387,0.005,NaN,0,,relative_HC_norm
+3,CG,65,25.055809,0.005,NaN,0,,relative_HC_norm
+3,CG,66,26.015222,0.005,NaN,0,,relative_HC_norm
+3,CG,67,22.947078,0.005,NaN,0,,relative_HC_norm
+3,CG,68,21.722796,0.005,NaN,0,,relative_HC_norm
+3,CG,69,23.61568,0.005,NaN,0,,relative_HC_norm
+3,CG,70,21.484891,0.005,NaN,0,,relative_HC_norm
+3,CG,71,22.388001,0.005,NaN,0,,relative_HC_norm
+3,CG,72,23.83891,0.005,NaN,0,,relative_HC_norm
+3,CG,73,20.271695,0.005,NaN,0,,relative_HC_norm
+3,CG,74,21.490384,0.005,NaN,0,,relative_HC_norm
+3,CG,75,26.142314,0.005,NaN,0,,relative_HC_norm
+3,CG,76,23.670449,0.005,NaN,0,,relative_HC_norm
+3,CG,77,23.690923,0.005,NaN,0,,relative_HC_norm
+3,CG,78,22.482658,0.005,NaN,0,,relative_HC_norm
+3,CG,79,18.193049,0.005,NaN,0,,relative_HC_norm
+3,CG,80,21.790978,0.005,NaN,0,,relative_HC_norm
+3,CG,81,24.669151,0.005,NaN,0,,relative_HC_norm
+3,CG,82,22.818601,0.005,NaN,0,,relative_HC_norm
+3,CG,83,24.315924,0.005,NaN,0,,relative_HC_norm
+3,CG,84,22.893487,0.005,NaN,0,,relative_HC_norm
+3,CG,85,22.483138,0.005,NaN,0,,relative_HC_norm
+3,CG,86,17.686591,0.005,NaN,0,,relative_HC_norm
+3,CG,87,22.334127,0.005,NaN,0,,relative_HC_norm
+3,CG,88,21.997409,0.005,NaN,0,,relative_HC_norm
+3,CG,89,18.153453,0.005,NaN,0,,relative_HC_norm
+3,CG,90,23.518574,0.005,NaN,0,,relative_HC_norm
+3,CG,91,21.984427,0.005,NaN,0,,relative_HC_norm
+3,CG,92,21.095898,0.005,NaN,0,,relative_HC_norm
+3,CG,93,21.735116,0.005,NaN,0,,relative_HC_norm
+3,CG,94,20.096141,0.005,NaN,0,,relative_HC_norm
+3,CG,95,26.303221,0.005,NaN,0,,relative_HC_norm
+3,CG,96,23.826694,0.005,NaN,0,,relative_HC_norm
+3,CG,97,22.409727,0.005,NaN,0,,relative_HC_norm
+3,CG,98,20.231954,0.005,NaN,0,,relative_HC_norm
+3,CG,99,23.570442,0.005,NaN,0,,relative_HC_norm
+3,CG,100,19.194119,0.005,NaN,0,,relative_HC_norm
+4,CG,1,22.305363,0.005,NaN,0,,relative_HC_norm
+4,CG,2,22.438405,0.005,NaN,0,,relative_HC_norm
+4,CG,3,21.511649,0.005,NaN,0,,relative_HC_norm
+4,CG,4,23.463764,0.005,NaN,0,,relative_HC_norm
+4,CG,5,26.895297,0.005,NaN,0,,relative_HC_norm
+4,CG,6,23.507758,0.005,NaN,0,,relative_HC_norm
+4,CG,7,23.780929,0.005,NaN,0,,relative_HC_norm
+4,CG,8,20.858846,0.005,NaN,0,,relative_HC_norm
+4,CG,9,28.936257,0.005,NaN,0,,relative_HC_norm
+4,CG,10,21.90338,0.005,NaN,0,,relative_HC_norm
+4,CG,11,18.037234,0.005,NaN,0,,relative_HC_norm
+4,CG,12,23.750352,0.005,NaN,0,,relative_HC_norm
+4,CG,13,26.816529,0.005,NaN,0,,relative_HC_norm
+4,CG,14,23.975845,0.005,NaN,0,,relative_HC_norm
+4,CG,15,18.896253,0.005,NaN,0,,relative_HC_norm
+4,CG,16,21.570168,0.005,NaN,0,,relative_HC_norm
+4,CG,17,21.940548,0.005,NaN,0,,relative_HC_norm
+4,CG,18,19.801552,0.005,NaN,0,,relative_HC_norm
+4,CG,19,18.463252,0.005,NaN,0,,relative_HC_norm
+4,CG,20,22.390697,0.005,NaN,0,,relative_HC_norm
+4,CG,21,21.007437,0.005,NaN,0,,relative_HC_norm
+4,CG,22,23.896696,0.005,NaN,0,,relative_HC_norm
+4,CG,23,18.330271,0.005,NaN,0,,relative_HC_norm
+4,CG,24,20.797539,0.005,NaN,0,,relative_HC_norm
+4,CG,25,23.11711,0.005,NaN,0,,relative_HC_norm
+4,CG,26,19.311811,0.005,NaN,0,,relative_HC_norm
+4,CG,27,25.507063,0.005,NaN,0,,relative_HC_norm
+4,CG,28,21.040883,0.005,NaN,0,,relative_HC_norm
+4,CG,29,20.818411,0.005,NaN,0,,relative_HC_norm
+4,CG,30,22.764133,0.005,NaN,0,,relative_HC_norm
+4,CG,31,20.148929,0.005,NaN,0,,relative_HC_norm
+4,CG,32,23.616794,0.005,NaN,0,,relative_HC_norm
+4,CG,33,22.015323,0.005,NaN,0,,relative_HC_norm
+4,CG,34,18.651437,0.005,NaN,0,,relative_HC_norm
+4,CG,35,20.490657,0.005,NaN,0,,relative_HC_norm
+4,CG,36,22.097264,0.005,NaN,0,,relative_HC_norm
+4,CG,37,18.981358,0.005,NaN,0,,relative_HC_norm
+4,CG,38,27.801807,0.005,NaN,0,,relative_HC_norm
+4,CG,39,26.003595,0.005,NaN,0,,relative_HC_norm
+4,CG,40,20.239842,0.005,NaN,0,,relative_HC_norm
+4,CG,41,25.057724,0.005,NaN,0,,relative_HC_norm
+4,CG,42,18.425397,0.005,NaN,0,,relative_HC_norm
+4,CG,43,28.210827,0.005,NaN,0,,relative_HC_norm
+4,CG,44,21.246358,0.005,NaN,0,,relative_HC_norm
+4,CG,45,26.674821,0.005,NaN,0,,relative_HC_norm
+4,CG,46,23.339514,0.005,NaN,0,,relative_HC_norm
+4,CG,47,24.113903,0.005,NaN,0,,relative_HC_norm
+4,CG,48,21.154044,0.005,NaN,0,,relative_HC_norm
+4,CG,49,28.128138,0.005,NaN,0,,relative_HC_norm
+4,CG,50,21.903851,0.005,NaN,0,,relative_HC_norm
+4,CG,51,26.553825,0.005,NaN,0,,relative_HC_norm
+4,CG,52,22.514244,0.005,NaN,0,,relative_HC_norm
+4,CG,53,23.514551,0.005,NaN,0,,relative_HC_norm
+4,CG,54,21.75201,0.005,NaN,0,,relative_HC_norm
+4,CG,55,27.030722,0.005,NaN,0,,relative_HC_norm
+4,CG,56,20.861299,0.005,NaN,0,,relative_HC_norm
+4,CG,57,29.12024,0.005,NaN,0,,relative_HC_norm
+4,CG,58,20.204996,0.005,NaN,0,,relative_HC_norm
+4,CG,59,25.9334,0.005,NaN,0,,relative_HC_norm
+4,CG,60,23.016142,0.005,NaN,0,,relative_HC_norm
+4,CG,61,19.2861,0.005,NaN,0,,relative_HC_norm
+4,CG,62,31.975822,0.005,NaN,0,,relative_HC_norm
+4,CG,63,23.208115,0.005,NaN,0,,relative_HC_norm
+4,CG,64,22.577188,0.005,NaN,0,,relative_HC_norm
+4,CG,65,21.778156,0.005,NaN,0,,relative_HC_norm
+4,CG,66,23.986966,0.005,NaN,0,,relative_HC_norm
+4,CG,67,27.676998,0.005,NaN,0,,relative_HC_norm
+4,CG,68,22.619219,0.005,NaN,0,,relative_HC_norm
+4,CG,69,19.119688,0.005,NaN,0,,relative_HC_norm
+4,CG,70,22.691683,0.005,NaN,0,,relative_HC_norm
+4,CG,71,22.928489,0.005,NaN,0,,relative_HC_norm
+4,CG,72,19.777291,0.005,NaN,0,,relative_HC_norm
+4,CG,73,24.87953,0.005,NaN,0,,relative_HC_norm
+4,CG,74,24.912637,0.005,NaN,0,,relative_HC_norm
+4,CG,75,28.353132,0.005,NaN,0,,relative_HC_norm
+4,CG,76,21.198036,0.005,NaN,0,,relative_HC_norm
+4,CG,77,25.329859,0.005,NaN,0,,relative_HC_norm
+4,CG,78,22.857143,0.005,NaN,0,,relative_HC_norm
+4,CG,79,23.354502,0.005,NaN,0,,relative_HC_norm
+4,CG,80,21.575163,0.005,NaN,0,,relative_HC_norm
+4,CG,81,24.014418,0.005,NaN,0,,relative_HC_norm
+4,CG,82,27.126445,0.005,NaN,0,,relative_HC_norm
+4,CG,83,20.233388,0.005,NaN,0,,relative_HC_norm
+4,CG,84,27.914642,0.005,NaN,0,,relative_HC_norm
+4,CG,85,22.737617,0.005,NaN,0,,relative_HC_norm
+4,CG,86,22.853286,0.005,NaN,0,,relative_HC_norm
+4,CG,87,19.170502,0.005,NaN,0,,relative_HC_norm
+4,CG,88,25.180696,0.005,NaN,0,,relative_HC_norm
+4,CG,89,39.364355,0.005,NaN,0,,relative_HC_norm
+4,CG,90,21.291339,0.005,NaN,0,,relative_HC_norm
+4,CG,91,22.865543,0.005,NaN,0,,relative_HC_norm
+4,CG,92,22.916703,0.005,NaN,0,,relative_HC_norm
+4,CG,93,22.227279,0.005,NaN,0,,relative_HC_norm
+4,CG,94,30.289108,0.005,NaN,0,,relative_HC_norm
+4,CG,95,23.706169,0.005,NaN,0,,relative_HC_norm
+4,CG,96,27.725077,0.005,NaN,0,,relative_HC_norm
+4,CG,97,25.008688,0.005,NaN,0,,relative_HC_norm
+4,CG,98,20.382302,0.005,NaN,0,,relative_HC_norm
+4,CG,99,23.086233,0.005,NaN,0,,relative_HC_norm
+4,CG,100,23.671908,0.005,NaN,0,,relative_HC_norm
+6,CG,1,23.422399,0.005,NaN,0,,relative_HC_norm
+6,CG,2,30.564944,0.005,NaN,0,,relative_HC_norm
+6,CG,3,28.947552,0.005,NaN,0,,relative_HC_norm
+6,CG,4,42.494827,0.005,NaN,0,,relative_HC_norm
+6,CG,5,28.060032,0.005,NaN,0,,relative_HC_norm
+6,CG,6,31.833116,0.005,NaN,0,,relative_HC_norm
+6,CG,7,28.511001,0.005,NaN,0,,relative_HC_norm
+6,CG,8,25.631064,0.005,NaN,0,,relative_HC_norm
+6,CG,9,27.097203,0.005,NaN,0,,relative_HC_norm
+6,CG,10,25.953919,0.005,NaN,0,,relative_HC_norm
+6,CG,11,22.168557,0.005,NaN,0,,relative_HC_norm
+6,CG,12,29.018368,0.005,NaN,0,,relative_HC_norm
+6,CG,13,42.974077,0.005,NaN,0,,relative_HC_norm
+6,CG,14,27.269545,0.005,NaN,0,,relative_HC_norm
+6,CG,15,31.64888,0.005,NaN,0,,relative_HC_norm
+6,CG,16,23.518639,0.005,NaN,0,,relative_HC_norm
+6,CG,17,25.635178,0.005,NaN,0,,relative_HC_norm
+6,CG,18,26.591278,0.005,NaN,0,,relative_HC_norm
+6,CG,19,26.902773,0.005,NaN,0,,relative_HC_norm
+6,CG,20,22.525096,0.005,NaN,0,,relative_HC_norm
+8,CG,1,32.885085,0.005,NaN,0,,relative_HC_norm
+8,CG,2,38.199463,0.005,NaN,0,,relative_HC_norm
+8,CG,3,26.282394,0.005,NaN,0,,relative_HC_norm
+8,CG,4,34.016955,0.005,NaN,0,,relative_HC_norm
+8,CG,5,31.555628,0.005,NaN,0,,relative_HC_norm
+8,CG,6,31.676435,0.005,NaN,0,,relative_HC_norm
+8,CG,7,29.045497,0.005,NaN,0,,relative_HC_norm
+8,CG,8,35.213252,0.005,NaN,0,,relative_HC_norm
+8,CG,9,38.166828,0.005,NaN,0,,relative_HC_norm
+8,CG,10,34.854866,0.005,NaN,0,,relative_HC_norm
+8,CG,11,30.554029,0.005,NaN,0,,relative_HC_norm
+8,CG,12,30.744678,0.005,NaN,0,,relative_HC_norm
+8,CG,13,30.517506,0.005,NaN,0,,relative_HC_norm
+8,CG,14,33.641304,0.005,NaN,0,,relative_HC_norm
+8,CG,15,38.832421,0.005,NaN,0,,relative_HC_norm
+8,CG,16,33.275507,0.005,NaN,0,,relative_HC_norm
+8,CG,17,40.348035,0.005,NaN,0,,relative_HC_norm
+8,CG,18,32.463475,0.005,NaN,0,,relative_HC_norm
+8,CG,19,31.658759,0.005,NaN,0,,relative_HC_norm
+8,CG,20,30.276586,0.005,NaN,0,,relative_HC_norm
+10,CG,1,40.328181,0.005,NaN,0,,relative_HC_norm
+10,CG,2,40.907291,0.005,NaN,0,,relative_HC_norm
+10,CG,3,39.126971,0.005,NaN,0,,relative_HC_norm
+10,CG,4,65.61083,0.005,NaN,0,,relative_HC_norm
+10,CG,5,45.280646,0.005,NaN,0,,relative_HC_norm
+10,CG,6,57.526718,0.005,NaN,0,,relative_HC_norm
+10,CG,7,50.308862,0.005,NaN,0,,relative_HC_norm
+10,CG,8,35.847458,0.005,NaN,0,,relative_HC_norm
+10,CG,9,42.888844,0.005,NaN,0,,relative_HC_norm
+10,CG,10,42.721267,0.005,NaN,0,,relative_HC_norm
+10,CG,11,42.42164,0.005,NaN,0,,relative_HC_norm
+10,CG,12,35.69442,0.005,NaN,0,,relative_HC_norm
+10,CG,13,45.151958,0.005,NaN,0,,relative_HC_norm
+10,CG,14,43.628416,0.005,NaN,0,,relative_HC_norm
+10,CG,15,43.675914,0.005,NaN,0,,relative_HC_norm
+10,CG,16,43.865397,0.005,NaN,0,,relative_HC_norm
+10,CG,17,43.788488,0.005,NaN,0,,relative_HC_norm
+10,CG,18,49.848397,0.005,NaN,0,,relative_HC_norm
+10,CG,19,42.382394,0.005,NaN,0,,relative_HC_norm
+10,CG,20,49.012826,0.005,NaN,0,,relative_HC_norm
+20,CG,1,246.990007,0.005,NaN,0,,relative_HC_norm
+20,CG,2,243.87853,0.005,NaN,0,,relative_HC_norm
+20,CG,3,257.666469,0.005,NaN,0,,relative_HC_norm
+20,CG,4,283.313612,0.005,NaN,0,,relative_HC_norm
+20,CG,5,316.209745,0.005,NaN,0,,relative_HC_norm
+20,CG,6,227.168922,0.005,NaN,0,,relative_HC_norm
+20,CG,7,255.987489,0.005,NaN,0,,relative_HC_norm
+20,CG,8,271.200763,0.005,NaN,0,,relative_HC_norm
+20,CG,9,268.259194,0.005,NaN,0,,relative_HC_norm
+20,CG,10,268.775223,0.005,NaN,0,,relative_HC_norm
+20,CG,11,305.50582,0.005,NaN,0,,relative_HC_norm
+20,CG,12,302.331394,0.005,NaN,0,,relative_HC_norm
+20,CG,13,227.121385,0.005,NaN,0,,relative_HC_norm
+20,CG,14,257.772182,0.005,NaN,0,,relative_HC_norm
+20,CG,15,262.105686,0.005,NaN,0,,relative_HC_norm
+20,CG,16,293.474533,0.005,NaN,0,,relative_HC_norm
+20,CG,17,237.299149,0.005,NaN,0,,relative_HC_norm
+20,CG,18,243.526418,0.005,NaN,0,,relative_HC_norm
+20,CG,19,259.624377,0.005,NaN,0,,relative_HC_norm
+20,CG,20,278.38531,0.005,NaN,0,,relative_HC_norm
+30,CG,1,1859.609158,0.005,NaN,0,,relative_HC_norm
+30,CG,2,1620.717474,0.005,NaN,0,,relative_HC_norm
+30,CG,3,1477.892405,0.005,NaN,0,,relative_HC_norm
+30,CG,4,1711.482845,0.005,NaN,0,,relative_HC_norm
+30,CG,5,1752.563337,0.005,NaN,0,,relative_HC_norm
+40,CG,1,5736.246919,0.005,NaN,0,,relative_HC_norm
+40,CG,2,5834.738801,0.005,NaN,0,,relative_HC_norm
+40,CG,3,6018.351552,0.005,NaN,0,,relative_HC_norm
+40,CG,4,6322.909103,0.005,NaN,0,,relative_HC_norm
+40,CG,5,5862.421568,0.005,NaN,0,,relative_HC_norm
+3,DNN surrogate,1,0.207878,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,2,0.204396,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,3,0.213251,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,4,0.210749,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,5,0.190657,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,6,0.224274,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,7,0.199429,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,8,0.215338,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,9,0.205947,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,10,0.203122,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,11,0.196555,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,12,0.224482,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,13,0.203352,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,14,0.212203,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,15,0.226398,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,16,0.225863,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,17,0.217284,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,18,0.228921,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,19,0.222854,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,20,0.223255,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,21,0.234451,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,22,0.225896,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,23,0.21101,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,24,0.200433,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,25,0.205001,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,26,0.204457,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,27,0.244411,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,28,0.227558,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,29,0.236485,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,30,0.234544,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,31,0.218924,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,32,0.215776,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,33,0.200586,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,34,0.206701,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,35,0.214783,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,36,0.234556,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,37,0.240586,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,38,0.245407,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,39,0.238999,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,40,0.20638,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,41,0.222471,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,42,0.215072,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,43,0.21197,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,44,0.201048,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,45,0.218992,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,46,0.247379,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,47,0.266644,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,48,0.245094,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,49,0.210628,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,50,0.190416,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,51,0.195722,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,52,0.221335,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,53,0.222531,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,54,0.250756,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,55,0.24992,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,56,0.192139,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,57,0.183321,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,58,0.225646,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,59,0.248817,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,60,0.224827,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,61,0.204645,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,62,0.223203,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,63,0.228389,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,64,0.235629,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,65,0.245523,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,66,0.193071,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,67,0.229491,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,68,0.230777,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,69,0.242041,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,70,0.242371,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,71,0.198596,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,72,0.234164,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,73,0.225243,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,74,0.22565,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,75,0.246522,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,76,0.200991,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,77,0.234946,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,78,0.23954,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,79,0.246787,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,80,0.260241,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,81,0.24675,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,82,0.215497,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,83,0.258947,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,84,0.208306,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,85,0.224204,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,86,0.249759,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,87,0.276423,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,88,0.25592,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,89,0.1951,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,90,0.227229,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,91,0.218817,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,92,0.233618,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,93,0.235424,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,94,0.248127,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,95,0.208942,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,96,0.256051,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,97,0.270686,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,98,0.233237,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,99,0.259836,0.005,NaN,8,paged_combined,relative_HC_norm
+3,DNN surrogate,100,0.246831,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,1,0.236916,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,2,0.344413,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,3,0.26534,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,4,0.245464,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,5,0.22164,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,6,0.252241,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,7,0.252341,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,8,0.256747,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,9,0.268709,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,10,0.227757,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,11,0.346734,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,12,0.224675,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,13,0.201681,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,14,0.211425,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,15,0.266138,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,16,0.274156,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,17,0.259833,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,18,0.256313,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,19,0.282944,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,20,0.24147,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,21,0.335642,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,22,0.319035,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,23,0.226952,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,24,0.229673,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,25,0.258572,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,26,0.288756,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,27,0.248094,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,28,0.288004,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,29,0.274724,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,30,0.231003,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,31,0.333732,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,32,0.318901,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,33,0.226035,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,34,0.243082,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,35,0.255651,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,36,0.249186,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,37,0.289612,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,38,0.282712,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,39,0.271028,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,40,0.229319,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,41,0.321225,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,42,0.31644,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,43,0.227508,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,44,0.242796,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,45,0.285188,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,46,0.279696,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,47,0.252849,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,48,0.289676,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,49,0.287757,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,50,0.278609,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,51,0.223464,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,52,0.344373,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,53,0.308226,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,54,0.237297,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,55,0.238675,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,56,0.265954,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,57,0.269532,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,58,0.240772,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,59,0.232164,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,60,0.247764,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,61,0.221728,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,62,0.25974,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,63,0.287146,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,64,0.288265,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,65,0.27149,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,66,0.219558,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,67,0.341261,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,68,0.253187,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,69,0.242335,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,70,0.219061,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,71,0.227016,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,72,0.272576,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,73,0.258441,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,74,0.269645,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,75,0.261929,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,76,0.250243,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,77,0.26904,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,78,0.268149,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,79,0.376899,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,80,0.222494,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,81,0.248499,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,82,0.266741,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,83,0.259808,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,84,0.227712,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,85,0.272795,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,86,0.273988,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,87,0.238987,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,88,0.241072,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,89,0.232738,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,90,0.22699,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,91,0.214544,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,92,0.235649,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,93,0.235706,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,94,0.212445,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,95,0.21385,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,96,0.21918,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,97,0.252387,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,98,0.283498,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,99,0.240682,0.005,NaN,8,paged_combined,relative_HC_norm
+4,DNN surrogate,100,0.263336,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,1,0.276153,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,2,0.304021,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,3,0.326412,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,4,0.318561,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,5,0.392452,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,6,0.301302,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,7,0.315166,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,8,0.338675,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,9,0.356146,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,10,0.312172,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,11,0.343255,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,12,0.293825,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,13,0.321998,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,14,0.389514,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,15,0.294593,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,16,0.29908,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,17,0.348568,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,18,0.365679,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,19,0.323821,0.005,NaN,8,paged_combined,relative_HC_norm
+6,DNN surrogate,20,0.299552,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,1,0.45448,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,2,0.657187,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,3,0.461803,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,4,0.38992,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,5,0.43566,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,6,0.522967,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,7,0.800073,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,8,0.45555,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,9,0.469387,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,10,0.707476,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,11,0.374092,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,12,0.473743,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,13,0.43767,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,14,0.425809,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,15,0.529073,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,16,0.485969,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,17,0.501837,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,18,0.724628,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,19,0.533607,0.005,NaN,8,paged_combined,relative_HC_norm
+8,DNN surrogate,20,0.471361,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,1,1.085215,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,2,0.939595,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,3,1.21516,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,4,0.710046,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,5,0.820345,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,6,0.62252,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,7,0.917551,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,8,1.15771,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,9,0.61483,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,10,0.839801,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,11,0.780859,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,12,0.561663,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,13,0.961278,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,14,0.726701,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,15,0.665282,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,16,0.808114,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,17,0.650318,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,18,0.706102,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,19,0.925746,0.005,NaN,8,paged_combined,relative_HC_norm
+10,DNN surrogate,20,0.774228,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,1,2.743294,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,2,2.750574,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,3,2.715665,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,4,2.703798,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,5,3.230123,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,6,4.441577,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,7,3.11384,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,8,2.883031,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,9,2.687186,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,10,2.576386,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,11,2.742632,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,12,3.874922,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,13,2.663644,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,14,3.727574,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,15,2.756423,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,16,3.491432,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,17,2.524232,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,18,4.179866,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,19,3.072179,0.005,NaN,8,paged_combined,relative_HC_norm
+20,DNN surrogate,20,2.581464,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,1,5.821512,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,2,5.926789,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,3,6.776923,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,4,8.324412,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,5,5.780462,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,6,9.489538,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,7,7.961567,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,8,5.662122,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,9,5.916362,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,10,6.448533,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,11,6.121685,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,12,5.89074,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,13,6.132787,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,14,5.87495,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,15,6.15842,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,16,6.325106,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,17,10.73098,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,18,6.467477,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,19,8.467157,0.005,NaN,8,paged_combined,relative_HC_norm
+30,DNN surrogate,20,8.640111,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,1,11.633569,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,2,11.642473,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,3,10.848223,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,4,11.442349,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,5,14.660787,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,6,9.780638,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,7,10.306542,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,8,11.053918,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,9,10.847245,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,10,10.424761,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,11,11.686839,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,12,10.879857,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,13,17.792135,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,14,23.24642,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,15,24.337656,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,16,10.678193,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,17,14.706839,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,18,10.639388,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,19,11.501965,0.005,NaN,8,paged_combined,relative_HC_norm
+40,DNN surrogate,20,11.542267,0.005,NaN,8,paged_combined,relative_HC_norm
+3,SNN,1,38819.41949749,NaN,500000,NaN,,not_applicable
+3,SNN,2,27592.451351643,NaN,500000,NaN,,not_applicable
+3,SNN,3,25762.820581675,NaN,500000,NaN,,not_applicable
+3,SNN,4,25078.694930315,NaN,500000,NaN,,not_applicable
+3,SNN,5,24749.753644466,NaN,500000,NaN,,not_applicable

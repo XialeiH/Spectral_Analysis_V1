@@ -1,0 +1,112 @@
+{
+  "probe": {
+    "reference": {
+      "n": 10,
+      "mean": 0.4668087,
+      "sd": 0.09525018180449259,
+      "sem": 0.030120752204732353,
+      "min": 0.339636,
+      "max": 0.598118,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "compact": {
+      "n": 10,
+      "mean": 0.4420317,
+      "sd": 0.07879562099796888,
+      "sem": 0.024917363200097145,
+      "min": 0.364609,
+      "max": 0.574182,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "exact_inputs": {
+      "n": 10,
+      "mean": 0.4814964,
+      "sd": 0.05868327861248988,
+      "sem": 0.018557282098171358,
+      "min": 0.395385,
+      "max": 0.573846,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "paged": {
+      "n": 10,
+      "mean": 0.3729788,
+      "sd": 0.06486959710030234,
+      "sem": 0.020513567773440954,
+      "min": 0.305603,
+      "max": 0.524311,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "transposed": {
+      "n": 10,
+      "mean": 0.4320597,
+      "sd": 0.10058282693498595,
+      "sem": 0.03180708266130884,
+      "min": 0.302963,
+      "max": 0.61092,
+      "all_passed": true,
+      "max_step_error": 9.908312189566e-05
+    },
+    "paged_transposed": {
+      "n": 10,
+      "mean": 0.383393,
+      "sd": 0.05822685992067769,
+      "sem": 0.01841294983489126,
+      "min": 0.300328,
+      "max": 0.466834,
+      "all_passed": true,
+      "max_step_error": 0.000111616041579055
+    },
+    "selected_rows": {
+      "n": 10,
+      "mean": 0.4263388,
+      "sd": 0.061196738429429395,
+      "sem": 0.019352107881055233,
+      "min": 0.362205,
+      "max": 0.57418,
+      "all_passed": true,
+      "max_step_error": 0.0
+    },
+    "selected_paged_transposed": {
+      "n": 10,
+      "mean": 0.374068,
+      "sd": 0.05791262355767811,
+      "sem": 0.018313579571818648,
+      "min": 0.302082,
+      "max": 0.478878,
+      "all_passed": true,
+      "max_step_error": 0.000111616041579055
+    }
+  },
+  "selected_variant": "paged",
+  "validation": {
+    "n": 100,
+    "mean": 0.37911415,
+    "sd": 0.10912632502740745,
+    "sem": 0.010912632502740745,
+    "min": 0.27236,
+    "max": 1.29852,
+    "all_passed": true,
+    "max_step_error": 1.25885009794047e-06
+  },
+  "control": {
+    "n": 100,
+    "mean": 0.44357759,
+    "sd": 0.07087232638323379,
+    "sem": 0.007087232638323379,
+    "min": 0.313692,
+    "max": 0.63032,
+    "all_passed": true,
+    "max_step_error": 0.0
+  },
+  "complete": true,
+  "ready_to_plot": true,
+  "frozen_CG_mean": 27.36131558,
+  "frozen_DNN4_mean": 0.54671737,
+  "CG_over_DNN": 72.17170759783036,
+  "target_100x_met": false,
+  "control_over_candidate_ratio_of_means": 1.1700370191932958
+}
