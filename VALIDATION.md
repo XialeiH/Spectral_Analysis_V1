@@ -66,6 +66,11 @@ the conceptual drawings in Main 1A/2A and the manual part of Main 4C.
 Run the Live Scripts for the numerical panels; consult the assemblies for
 the final manuscript composition.
 
+The public `reproduce_all(true)` runner was also executed after moving the
+previous working-copy directory aside. All 44 entries passed from the freshly
+created input workspace, followed by all checks in `verify_published_numbers`.
+`clean_workspace_validation.json` contains that independent full-run result.
+
 Retained FIG inputs contain MATLAB data/graphics objects, not screenshot
 substitutes. Their reuse matches the source plotting workflow. Some upstream
 raw SNN spike histories were previously deleted at the author's request.

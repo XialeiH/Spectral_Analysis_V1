@@ -7115,6 +7115,11 @@
     "sha256": "c2470c413b68c7eab48e13ab8076de37c271ae259f8d6f319eb1081123b5bc93"
   },
   {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/continue_top_singular_chunk.sbatch",
+    "bytes": 363,
+    "sha256": "47c73aaa66fcba4499fb0ab8b468506b6091e06e811a97cd1d53d437a05c9700"
+  },
+  {
     "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/real_tuning_fixed_point_tolerance.m",
     "bytes": 1061,
     "sha256": "5d3158d9bcad4e5d8abb731ac3e6cd1f3f37582f594b18fbb08796c9c4874e49"
@@ -7128,6 +7133,16 @@
     "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/run_top_singular_grid_task.m",
     "bytes": 5731,
     "sha256": "0372b1a89e5270fdbf35b6e655c162f6b858807ff3b264abf2a78e336f3bccaa"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/run_top_singular_grid_task.sbatch",
+    "bytes": 799,
+    "sha256": "6ba3c0d7ba7e6ca04bb8d1f2aa9322c3cebfc5e7fe594fb27b7ad178112caa6a"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/submit_top_singular_chunk.sh",
+    "bytes": 2685,
+    "sha256": "1ce48b1156426604310fb2460f4a944d59e7bd9b05dfe83a679981b678bb9b2f"
   },
   {
     "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/submit_top_singular_pair.sh",
@@ -9081,13 +9096,13 @@
   },
   {
     "path": "MFpVLDEComput/source_manifest.json",
-    "bytes": 239500,
-    "sha256": "47dc143aeaae2a96bf02ed0846613933c7ddb55450b29512f2d086bfc76e191e"
+    "bytes": 240435,
+    "sha256": "e370fcfcf82b46492b64beaaf73af3a32ae9a589377d7d75b5381e218c810837"
   },
   {
     "path": "MFpVLDEComput/unavailable_historical_sources.json",
-    "bytes": 464,
-    "sha256": "9b2423d022654f078fb4e7d16e85e155a3775dcd5a533f8d0242c28f7d8e755f"
+    "bytes": 3,
+    "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
   },
   {
     "path": "MFpVLDEComput/unavailable_python_sources.json",
@@ -21011,8 +21026,13 @@
   },
   {
     "path": "VALIDATION.md",
-    "bytes": 4539,
-    "sha256": "efc6a5662f35ff98e7197e112646324b5d02e3c8fbd7266ea6d77359ba1c9b3a"
+    "bytes": 4849,
+    "sha256": "9b0785c032e4d23c130017e534d658944f03a1f970d7a2d7d2573fdfce5e74d3"
+  },
+  {
+    "path": "clean_workspace_validation.json",
+    "bytes": 2079,
+    "sha256": "3c8531b39754c47137617a7ce51e8634b5e4e63f71e22a21a5a9c2756f6fd695"
   },
   {
     "path": "panels.json",

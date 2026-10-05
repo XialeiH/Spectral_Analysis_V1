@@ -3928,5 +3928,20 @@
     "path": "MFpVLDEComput/historical/report_figure_scripts/make_Final_Figure_5A.m",
     "sha256": "15cb3d3067f476ce61826b01beb64516a61597e78a61f46689e8498a10067bf6",
     "role": "Archived computation; historical paths require local configuration"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/continue_top_singular_chunk.sbatch",
+    "sha256": "47c73aaa66fcba4499fb0ab8b468506b6091e06e811a97cd1d53d437a05c9700",
+    "role": "Archived computation; historical paths require local configuration"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/run_top_singular_grid_task.sbatch",
+    "sha256": "6ba3c0d7ba7e6ca04bb8d1f2aa9322c3cebfc5e7fe594fb27b7ad178112caa6a",
+    "role": "Archived computation; historical paths require local configuration"
+  },
+  {
+    "path": "MFpVLDEComput/historical/l6_next_stage_analysis_20260717/top_singular_hcnorm_grids_20260803/submit_top_singular_chunk.sh",
+    "sha256": "1ce48b1156426604310fb2460f4a944d59e7bd9b05dfe83a679981b678bb9b2f",
+    "role": "Archived computation; historical paths require local configuration"
   }
 ]
