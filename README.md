@@ -1,9 +1,3 @@
-# Spectral Analysis: Reproducible Figures
-
-MATLAB Live Scripts and retained numerical inputs for the current manuscript figures.
-The directory organization follows [NYU-EffiModel](https://github.com/Texense/NYU-EffiModel);
-that reference repository is not modified.
-
 ## Figure numbering
 
 The main figure identifiers follow **main_01.pdf through main_05.pdf** and
